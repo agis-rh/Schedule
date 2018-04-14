@@ -1,0 +1,38 @@
+/*
+*****************************************************************************
+Filename  : style.ticker.css
+Creator   : IBeESNay                                   
+© Copyright and Powered by IBeESNay                         
+*****************************************************************************
+*/
+/* 
+    Created on : 21 Okt 14, 14:54:54
+    Author     : Admin
+*/
+#sekilas {
+        width:100%;
+        height:210px;
+        overflow:hidden;
+        margin-top: -20px;
+    }
+    #sekilas li {
+        border:0;
+        margin:0; 
+        padding:0; 
+        height:120px; 
+        list-style:none;
+        list-style:none;
+    }
+    #sekilas .teks {
+        display:block;
+        margin-top:50px;
+        font-size: 20px;
+    }
+    .gambar {
+        float: left;
+        width: 150px;
+        margin-right: 20px;
+        border: 5px solid #6cc7e1;
+        border-radius: 5px;
+    }
+
